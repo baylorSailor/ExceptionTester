@@ -20,10 +20,10 @@ Tasks to answer in your own README.md that you submit on Canvas:
 
     2.  Why do we need to override constructors?
 
-            If the method has the same name, return type, and number of parameters, we use the override constructor to specify exactly what the method will be doing so that it will not perform its default behavior by calling the super() of its parent.
+        If the method has the same name, return type, and number of parameters, we use the override constructor to specify exactly what the method will be doing so that it will not perform its default behavior by calling the super() of its parent.
 
     3.  Why we did not override other Exception methods?
-            We would get compile time errors.
+        We would get compile time errors.
 
 
 5.  The Timer.java has a static block static {}, what does it do? (determine when called by debugger)
