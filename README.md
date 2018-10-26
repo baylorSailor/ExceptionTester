@@ -52,6 +52,6 @@ Tasks to answer in your own README.md that you submit on Canvas:
 
 11.  What category of Exceptions is TimerException and what is NullPointerException
 
-    TimerException is a User-Defined Exception class and NullPointerException
-    is a Built-In Exception class.
+    TimerException is a User-Defined Exception class and
+    NullPointerException is a Built-In Exception class.
 12.  Push the updated/fixed source code to your own repository.
